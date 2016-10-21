@@ -2,7 +2,7 @@
 <i>Spring Framework</i>
 
 
-This advanced Spring Project was build by combining a variety of open-source technologies and knowledge, including:
+This advanced Spring Project was build through the combination of a variety of open-source technologies and knowledge, including:
 
 <ul>
   <li>
