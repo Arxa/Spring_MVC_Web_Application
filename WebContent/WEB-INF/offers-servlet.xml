@@ -83,6 +83,8 @@
 		class="org.springframework.validation.beanvalidation.LocalValidatorFactoryBean">
 	</bean>
 	
+	<!-- Spring Mail -->
+	
 	<bean id="mailSender" class="org.springframework.mail.javamail.JavaMailSenderImpl">
 		<property name="host" value="smtp.gmail.com" />
 		<property name="port" value="587" />
