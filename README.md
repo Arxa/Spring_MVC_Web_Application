@@ -43,7 +43,7 @@ This advanced Spring Project was build by combining a variety of open-source tec
             JSP 
         </li>
         <li>
-            JSTLjdbc
+            JSTL
             
         </li>
         <li>
