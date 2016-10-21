@@ -12,7 +12,7 @@
             <a target="_blank" href="/src/com/caveofprogramming/spring/web/config/security-context.xml" >Spring Security </a>
         </li>
         <li>
-            <a href="http://docs.spring.io/spring/docs/current/spring-framework-reference/html/expressions.html" target="_blank">Spring             Expression Language (SPEL) </a>
+            <a href="/WebContent/WEB-INF/tiles/index.jsp" target="_blank">Spring             Expression Language (SPEL) </a>
         </li>
         <li>
              <a href="/WebContent/WEB-INF/flows/contact-flow.xml" target="_blank">Spring Webflow</a>
@@ -26,13 +26,13 @@
       <b>Apache</b>
       <ul>
         <li>
-            <a href="https://maven.apache.org/" target="_blank">Apache Maven </a> 
+            <a href="/pom.xml" target="_blank">Apache Maven </a> 
         </li>
         <li>
-            <a href="http://logging.apache.org/log4j/2.x/" target="_blank">Apache Log4j</a> 
+            <a href="/src/log4j.properties" target="_blank">Apache Log4j</a> 
         </li>
         <li>
-            <a href="https://tomcat.apache.org/" target="_blank">Apache Tomcat</a> 
+            <a href="/test/com/caveofprogramming/spring/web/test/config/datasource.xml" target="_blank">Apache Tomcat</a> 
         </li>
       </ul>
   </li>
@@ -40,14 +40,14 @@
       <b>Java</b>
       <ul>
         <li>
-            <a href="https://jsp.java.net/" target="_blank">JSP </a> 
+            <a href="/WebContent/WEB-INF/tiles/" target="_blank">JSP </a> 
         </li>
         <li>
-             <a href="https://jstl.java.net/" target="_blank">JSTL </a> 
+             <a href="/WebContent/WEB-INF/tiles/header.jsp" target="_blank">JSTL </a> 
             
         </li>
         <li>
-            <a href="https://docs.oracle.com/javase/tutorial/jdbc/basics/" target="_blank"> JDBC </a>
+            <a href="/test/com/caveofprogramming/spring/web/test/config/datasource.xml" target="_blank"> JDBC </a>
         </li>
       </ul>
   </li>
@@ -56,19 +56,19 @@
       <a href="" target="_blank"> <b>MySql</b> </a>
   </li>
   <li>
-     <a href="" target="_blank"> <b>Hibernate</b> </a>
+     <a href="/src/com/caveofprogramming/spring/web/dao/User.java" target="_blank"> <b>Hibernate + HQL</b> </a>
   </li>
   <li>   
-     <a href="" target="_blank"> <b>JUnit</b> </a> 
+     <a href="/test/com/caveofprogramming/spring/web/test/tests/" target="_blank"> <b>JUnit</b> </a> 
   </li>
   <li>
-     <a href="" target="_blank"> <b>JSON</b> </a>  
+     <a href="/src/com/caveofprogramming/spring/web/controllers/LoginController.java" target="_blank"> <b>JSON</b> </a>  
   </li>
   <li>
-    <a href="" target="_blank"> <b>jQuery + AJAX</b> </a>   
+    <a href="/WebContent/WEB-INF/tiles/messages.jsp" target="_blank"> <b>jQuery + AJAX</b> </a>   
   </li>
   <li>
-    <b>HTML/CSS</b>
+    <a href="/WebContent/resources/css/main.css" target="_blank"> <b>HTML + CSS</b> </a>   
   </li>
       
 </ul>
