@@ -12,9 +12,6 @@
             <a target="_blank" href="/src/com/caveofprogramming/spring/web/config/security-context.xml" >Spring Security </a>
         </li>
         <li>
-            <a href="/WebContent/WEB-INF/tiles/index.jsp" target="_blank">Spring             Expression Language (SPEL) </a>
-        </li>
-        <li>
              <a href="/WebContent/WEB-INF/flows/contact-flow.xml" target="_blank">Spring Webflow</a>
         </li>
         <li>
@@ -32,7 +29,7 @@
             <a href="/src/log4j.properties" target="_blank">Apache Log4j</a> 
         </li>
         <li>
-            <a href="/test/com/caveofprogramming/spring/web/test/config/datasource.xml" target="_blank">Apache Tomcat</a> 
+            Apache Tomcat
         </li>
       </ul>
   </li>
