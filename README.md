@@ -57,11 +57,9 @@
   </li>
   <br>
   <li>
-      <b>MySql</b>
+    <a href="/src/com/caveofprogramming/spring/web/dao/OffersDAO.java" target="_blank"> <b>Hibernate + HQL</b> </a>
   </li>
-  <li>
-     <a href="/src/com/caveofprogramming/spring/web/dao/OffersDAO.java" target="_blank"> <b>Hibernate + HQL</b> </a>
-  </li>
+  
   <li>   
      <a href="/test/com/caveofprogramming/spring/web/test/tests/" target="_blank"> <b>JUnit</b> </a> 
   </li>
@@ -73,6 +71,9 @@
   </li>
   <li>
     <a href="/WebContent/resources/css/main.css" target="_blank"> <b>HTML + CSS</b> </a>   
+  </li>
+  <li>
+      <b>MySql</b>
   </li>
       
 </ul>
