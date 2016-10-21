@@ -55,7 +55,7 @@
         </li>
       </ul>
   </li>
-  <br>
+
   <li>
     <a href="/src/com/caveofprogramming/spring/web/dao/OffersDAO.java" target="_blank"> <b>Hibernate + HQL</b> </a>
   </li>
