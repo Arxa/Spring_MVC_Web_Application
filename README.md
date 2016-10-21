@@ -9,7 +9,7 @@
       <b>Spring</b>
       <ul>
         <li>
-            <a href="" target="_blank">Spring Security </a>
+            <a href="http://projects.spring.io/spring-security/" target="_blank">Spring Security </a>
         </li>
         <li>
             <a href="" target="_blank">Spring Expression Language (SPEL) </a>
