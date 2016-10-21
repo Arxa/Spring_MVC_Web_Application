@@ -73,7 +73,7 @@
     <a href="/WebContent/resources/css/main.css" target="_blank"> <b>HTML + CSS</b> </a>   
   </li>
   <li>
-      <b>MySql</b>
+      <b>MySQL</b>
   </li>
       
 </ul>
