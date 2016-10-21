@@ -12,13 +12,13 @@
             <a target="_blank" href="http://projects.spring.io/spring-security/" >Spring Security </a>
         </li>
         <li>
-            <a href="" target="_blank">Spring Expression Language (SPEL) </a>
+            <a href="http://docs.spring.io/spring/docs/current/spring-framework-reference/html/expressions.html" target="_blank">Spring Expression Language (SPEL) </a>
         </li>
         <li>
-             <a href="" target="_blank">Spring Webflow</a>
+             <a href="http://projects.spring.io/spring-webflow/" target="_blank">Spring Webflow</a>
         </li>
         <li>
-            <a href="" target="_blank">Spring Mail </a>
+            <a href="http://docs.spring.io/spring/docs/current/spring-framework-reference/html/mail.html" target="_blank">Spring Mail </a>
         </li>
       </ul>
   </li>
@@ -40,7 +40,7 @@
       <b>Java</b>
       <ul>
         <li>
-            <a href="" target="_blank">JSP </a> 
+            <a href="https://maven.apache.org/" target="_blank">JSP </a> 
         </li>
         <li>
              <a href="" target="_blank">JSTL </a> 
