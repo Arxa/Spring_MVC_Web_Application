@@ -1,5 +1,5 @@
 # Spring_MVC_Web_Application <a href="https://spring.io/"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/spring.png"> </a>
-Spring Framework
+<i>Spring Framework</i>
 
 
 This advanced Spring Project was build by combining a variety of open-source technologies and knowledge, including:
