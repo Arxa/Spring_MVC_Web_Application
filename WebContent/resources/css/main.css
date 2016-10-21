@@ -1,0 +1,195 @@
+@CHARSET "UTF-8";
+
+	.formtable
+	{
+		width: 600 px; 
+		padding: 10px;
+		border: 1px solid blue;
+	}
+	input[type=password]
+	{
+		width: 250px;
+		
+	}
+	input[type=text]
+	{
+		width: 250px;
+		
+	}
+	textarea
+	{
+		width: 250px;
+		height: 400 px;
+		
+	}
+	.label
+	{
+		text-align: right;
+		vertical-align: top;
+	}
+	.control
+	{
+		margin-left: 10px;
+	}
+	
+	.error
+	{
+		font-size: big;
+		color: red;
+		margin-left: 10px;
+	}
+	
+	.valid
+	{
+		font-size: big;
+		color: green;
+		margin-left: 10px;
+	}
+	
+	.offerstable
+	{
+		padding: 10px;
+		border: 1px solid gray;
+		color: blue;
+	}
+	
+	.offerstable td
+	{
+		padding:0 30px 0 30px;
+	}
+	
+	p.error
+	{
+		color: red;
+	}
+	
+	div.footer
+	{
+		font-size: small;
+		color: gray;
+	}
+	
+	
+	div.content
+	{
+		position: relative;
+		padding: 40px;
+	}
+	
+	div.toolbar
+	{
+		position: relative;
+		padding-left: 40px;
+		margin-top: 10px;
+	}
+	
+	div.header
+	{
+		position: relative;
+		text-align: center;
+		width: 100%;
+		height: 40px;
+		background-color: red;
+	}
+	
+	a.login
+	{
+		position: absolute;
+		top: 10px;
+		right: 10px;
+		color: white;
+	}
+	
+	a.title
+	{
+		color: white;
+		font-size: 35px;
+	}
+	
+	input.delete
+	{
+		border: 1px solid red;
+	}
+	
+	td.name
+	{
+		width: 150px;
+	}
+	
+	
+	span.subject
+	{
+		font-size: large;
+		color: brown;
+		font-weight: bold;
+	}
+	
+	span.messageBody
+	{
+		display: block;
+		font-style: italic;
+	}
+	
+	.message
+	{
+		margin-bottom: 20px;
+		border-bottom: 1px dashed brown;
+	}
+	
+	span.name
+	{
+		color: brown;
+		font-size: medium;
+	}
+	
+	form.replyForm
+	{
+		padding: 20px;
+		display: none;
+	}
+	
+	textarea.replyarea
+	{
+		width: 400px;
+		height: 250px;
+	}
+	
+	input.replyButton
+	{
+		display: block;
+		font-size: large;
+		border: 1px solid gray;
+	}
+	
+	a.replyLink:link
+	{
+		color: brown;
+	}
+	
+	span.alert
+	{
+		display: block;
+		font-weight: bold;
+		color: green;
+	}
+	
+	.loggedInAs
+	{
+		position: absolute;
+		top: 10px;
+		left: 10px;
+		color: white;
+	}
+	
+	.register
+	{
+		position: absolute;
+		top: 10px;
+		left: 10px;
+		color: white;
+	}
+	
+
+	
+	
+	
