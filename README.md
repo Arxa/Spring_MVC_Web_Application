@@ -23,6 +23,9 @@
       <b>Apache</b>
       <ul>
         <li>
+            <a href="/WebContent/WEB-INF/layout/default.xml" target="_blank">Apache Tiles </a> 
+        </li>
+        <li>
             <a href="/pom.xml" target="_blank">Apache Maven </a> 
         </li>
         <li>
@@ -50,10 +53,10 @@
   </li>
   <br>
   <li>
-      <a href="" target="_blank"> <b>MySql</b> </a>
+      <b>MySql</b>
   </li>
   <li>
-     <a href="/src/com/caveofprogramming/spring/web/dao/User.java" target="_blank"> <b>Hibernate + HQL</b> </a>
+     <a href="/src/com/caveofprogramming/spring/web/dao/OffersDAO.java" target="_blank"> <b>Hibernate + HQL</b> </a>
   </li>
   <li>   
      <a href="/test/com/caveofprogramming/spring/web/test/tests/" target="_blank"> <b>JUnit</b> </a> 
