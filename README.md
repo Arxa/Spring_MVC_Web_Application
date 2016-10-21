@@ -51,6 +51,7 @@ This advanced Spring Project was build by combining a variety of open-source tec
         </li>
       </ul>
   </li>
+  <br>
   <li>
      <b>MySql</b>
   </li>
