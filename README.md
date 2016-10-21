@@ -12,7 +12,7 @@
             <a target="_blank" href="http://projects.spring.io/spring-security/" >Spring Security </a>
         </li>
         <li>
-            <a href="http://docs.spring.io/spring/docs/current/spring-framework-reference/html/expressions.html" target="_blank">Spring Expression Language (SPEL) </a>
+            <a href="http://docs.spring.io/spring/docs/current/spring-framework-reference/html/expressions.html" target="_blank">Spring             Expression Language (SPEL) </a>
         </li>
         <li>
              <a href="http://projects.spring.io/spring-webflow/" target="_blank">Spring Webflow</a>
@@ -26,13 +26,13 @@
       <b>Apache</b>
       <ul>
         <li>
-            <a href="" target="_blank">Apache Maven </a> 
+            <a href="https://maven.apache.org/" target="_blank">Apache Maven </a> 
         </li>
         <li>
-            <a href="" target="_blank">Apache Log4j</a> 
+            <a href="http://logging.apache.org/log4j/2.x/" target="_blank">Apache Log4j</a> 
         </li>
         <li>
-            <a href="" target="_blank">Apache Tomcat</a> 
+            <a href="https://tomcat.apache.org/" target="_blank">Apache Tomcat</a> 
         </li>
       </ul>
   </li>
@@ -40,14 +40,14 @@
       <b>Java</b>
       <ul>
         <li>
-            <a href="https://maven.apache.org/" target="_blank">JSP </a> 
+            <a href="https://jsp.java.net/" target="_blank">JSP </a> 
         </li>
         <li>
-             <a href="" target="_blank">JSTL </a> 
+             <a href="https://jstl.java.net/" target="_blank">JSTL </a> 
             
         </li>
         <li>
-            <a href="" target="_blank"> JDBC </a>
+            <a href="https://docs.oracle.com/javase/tutorial/jdbc/basics/" target="_blank"> JDBC </a>
         </li>
       </ul>
   </li>
