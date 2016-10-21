@@ -4,8 +4,6 @@
 
 <h3>This advanced Spring Project was build through the combination of a variety of open-source technologies and knowledge, including:</h3>
 
-<br>
-
 <ul>
   <li>
       <b>Spring</b>
