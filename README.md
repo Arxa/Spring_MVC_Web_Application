@@ -1,4 +1,4 @@
-# Spring_MVC_Web_Application &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://spring.io/"> <img src="/spring.png"> </a>
+# Spring_MVC_Web_Application &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://spring.io/" target="_blank"> <img src="/spring.png"> </a>
 <i>Spring Framework</i>
 
 
@@ -9,16 +9,16 @@
       <b>Spring</b>
       <ul>
         <li>
-            <a href="">Spring Security </a>
+            <a href="" target="_blank">Spring Security </a>
         </li>
         <li>
-            <a href="">Spring Expression Language (SPEL) </a>
+            <a href="" target="_blank">Spring Expression Language (SPEL) </a>
         </li>
         <li>
-             <a href="">Spring Webflow</a>
+             <a href="" target="_blank">Spring Webflow</a>
         </li>
         <li>
-            <a href="">Spring Mail </a>
+            <a href="" target="_blank">Spring Mail </a>
         </li>
       </ul>
   </li>
@@ -26,13 +26,13 @@
       <b>Apache</b>
       <ul>
         <li>
-            <a href="">Apache Maven </a> 
+            <a href="" target="_blank">Apache Maven </a> 
         </li>
         <li>
-            <a href="">Apache Log4j</a> 
+            <a href="" target="_blank">Apache Log4j</a> 
         </li>
         <li>
-            <a href="">Apache Tomcat</a> 
+            <a href="" target="_blank">Apache Tomcat</a> 
         </li>
       </ul>
   </li>
@@ -40,32 +40,32 @@
       <b>Java</b>
       <ul>
         <li>
-            <a href="">JSP </a> 
+            <a href="" target="_blank">JSP </a> 
         </li>
         <li>
-             <a href="">JSTL </a> 
+             <a href="" target="_blank">JSTL </a> 
             
         </li>
         <li>
-            <a href=""> JDBC </a>
+            <a href="" target="_blank"> JDBC </a>
         </li>
       </ul>
   </li>
   <br>
   <li>
-      <a href=""> <b>MySql</b> </a>
+      <a href="" target="_blank"> <b>MySql</b> </a>
   </li>
   <li>
-     <a href=""> <b>Hibernate</b> </a>
+     <a href="" target="_blank"> <b>Hibernate</b> </a>
   </li>
   <li>   
-     <a href=""> <b>JUnit</b> </a> 
+     <a href="" target="_blank"> <b>JUnit</b> </a> 
   </li>
   <li>
-     <a href=""> <b>JSON</b> </a>  
+     <a href="" target="_blank"> <b>JSON</b> </a>  
   </li>
   <li>
-    <a href=""> <b>jQuery + AJAX</b> </a>   
+    <a href="" target="_blank"> <b>jQuery + AJAX</b> </a>   
   </li>
   <li>
     <b>HTML/CSS</b>
