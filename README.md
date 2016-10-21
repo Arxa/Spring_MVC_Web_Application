@@ -1,5 +1,5 @@
 # Spring_MVC_Web_Application &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://spring.io/" target="_blank"> <img src="/spring.png"> </a>
-<i>Spring Framework</i>
+<i>The Java Spring Framework: Java's Popular Web Framework</i>
 
 
 <h3>This advanced Spring Project was built by combining a variety of open-source technologies and knowledge, including:</h3>
