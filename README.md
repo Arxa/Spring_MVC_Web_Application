@@ -18,7 +18,7 @@
              <a href="/WebContent/WEB-INF/flows/contact-flow.xml" target="_blank">Spring Webflow</a>
         </li>
         <li>
-            <a href="http://docs.spring.io/spring/docs/current/spring-framework-reference/html/mail.html" target="_blank">Spring Mail </a>
+            <a href="/WebContent/WEB-INF/offers-servlet.xml" target="_blank">Spring Mail </a>
         </li>
       </ul>
   </li>
