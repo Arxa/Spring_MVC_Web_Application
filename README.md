@@ -5,7 +5,8 @@
 <h3>This advanced Spring Project was built through combining a variety of open-source technologies and knowledge, including:</h3>
 <br>
 
-<i>(The links are redirecting to realatice code or files)</i>
+<i>(Links are targeting to relative code or files)</i>
+<br>
 <br>
 <ul>
   <li>
