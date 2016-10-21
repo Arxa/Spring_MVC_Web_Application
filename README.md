@@ -9,16 +9,16 @@ This advanced Spring Project was build by combining a variety of open-source tec
       <b>Spring</b>
       <ul>
         <li>
-            Spring Security 
+            <a href="">Spring Security </a>
         </li>
         <li>
-            Spring Expression Language (SPEL)
+            <a href="">Spring Expression Language (SPEL) </a>
         </li>
         <li>
-            Spring Webflow
+             <a href="">Spring Webflow</a>
         </li>
         <li>
-            Spring Mail
+            <a href="">Spring Mail </a>
         </li>
       </ul>
   </li>
@@ -26,13 +26,13 @@ This advanced Spring Project was build by combining a variety of open-source tec
       <b>Apache</b>
       <ul>
         <li>
-            Apache Maven 
+            <a href="">Apache Maven </a> 
         </li>
         <li>
-            Apache Log4j
+            <a href="">Apache Log4j</a> 
         </li>
         <li>
-            Apache Tomcat
+            <a href="">Apache Tomcat</a> 
         </li>
       </ul>
   </li>
@@ -40,32 +40,32 @@ This advanced Spring Project was build by combining a variety of open-source tec
       <b>Java</b>
       <ul>
         <li>
-            JSP 
+            <a href="">JSP </a> 
         </li>
         <li>
-            JSTL
+             <a href="">JSTL </a> 
             
         </li>
         <li>
-            JDBC
+            <a href=""> JDBC </a>
         </li>
       </ul>
   </li>
   <br>
   <li>
-     <b>MySql</b>
+      <a href=""> <b>MySql</b> </a>
   </li>
   <li>
-     <b>Hibernate</b>
+     <a href=""> <b>Hibernate</b> </a>
   </li>
   <li>   
-     <b>JUnit</b>
+     <a href=""> <b>JUnit</b> </a> 
   </li>
   <li>
-     <b>JSON </b>
+     <a href=""> <b>JSON</b> </a>  
   </li>
   <li>
-    <b>jQuery + AJAX</b>
+    <a href=""> <b>jQuery + AJAX</b> </a>   
   </li>
   <li>
     <b>HTML/CSS</b>
