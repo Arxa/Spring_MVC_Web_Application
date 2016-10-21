@@ -6,7 +6,7 @@ This advanced Spring Project was build by combining a variety of open-source tec
 
 <ul>
   <li>
-      Spring
+      <b>Spring</b>
       <ul>
         <li>
             Spring Security 
@@ -23,7 +23,7 @@ This advanced Spring Project was build by combining a variety of open-source tec
       </ul>
   </li>
   <li>
-      Apache
+      <b>Apache</b>
       <ul>
         <li>
             Apache Maven 
@@ -37,7 +37,7 @@ This advanced Spring Project was build by combining a variety of open-source tec
       </ul>
   </li>
   <li>
-      Java
+      <b>Java</b>
       <ul>
         <li>
             JSP 
@@ -52,22 +52,23 @@ This advanced Spring Project was build by combining a variety of open-source tec
       </ul>
   </li>
   <li>
-     MySql
+     <b>MySql</b>
   </li>
   <li>
-     Hibernate
+     <b>Hibernate</b>
   </li>
   <li>   
-     JUnit   
+     <b>JUnit</b>
   </li>
   <li>
-     JSON AJAX
+     <b>JSON </b>
   </li>
   <li>
-    jQuery
+    <b>jQuery + AJAX</b>
   </li>
   <li>
-    HTML/CSS
+    <b>HTML/CSS</b>
   </li>
       
 </ul>
+</b>
