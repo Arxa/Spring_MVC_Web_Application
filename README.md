@@ -84,19 +84,19 @@
 
 <table>
  	<tr>
-		<td><a href="/WebContent/resources/index.JPG"><img src="index.JPG"></a></td>
+		<td><a href="/WebContent/resources/index.JPG"><img src="WebContent/resources/index.JPG"></a></td>
 	</tr>
  	<tr>
-		<td><a href="/WebContent/resources/loginForm.JPG"><img src="loginForm.JPG"></a></td>
+		<td><a href="/WebContent/resources/loginForm.JPG"><img src="WebContent/resources/loginForm.JPG"></a></td>
 	</tr>
   <tr>
-		<td><a href="/WebContent/resources/validation.JPG"><img src="Register.JPG"></a></td>
+		<td><a href="/WebContent/resources/validation.JPG"><img src="WebContent/resources/validation.JPG"></a></td>
 	</tr>
   <tr>
-		<td><a href="/WebContent/resources/messages.JPG"><img src="Register.JPG"></a></td>
+		<td><a href="/WebContent/resources/messages.JPG"><img src="WebContent/resources/messages.JPG"></a></td>
 	</tr>
   <tr>
-		<td><a href="/WebContent/resources/sendMessage.JPG"><img src="Register.JPG"></a></td>
+		<td><a href="/WebContent/resources/sendMessage.JPG"><img src="WebContent/resources/sendMessage.JPG"></a></td>
 	</tr>
   <tr>
 		<td><a href="/WebContent/resources/update.JPG"><img src="Register.JPG"></a></td>
