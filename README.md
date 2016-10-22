@@ -80,4 +80,4 @@
 </ul>
 </b>
 
-<h4>About this Web Application:</h4>
+<h3>About this Web Application:</h3>
