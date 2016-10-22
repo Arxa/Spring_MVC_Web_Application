@@ -92,7 +92,7 @@
 	</tr>
 	
   	<tr>
-		<td><a href="/WebContent/resources/validation.JPG"><img src="WebContent/resources/validation.JPG"></a></td>
+		<td><a href="/WebContent/resources/validation.PNG"><img src="WebContent/resources/validation.PNG"></a></td>
 	</tr>
 	
   	<tr>
