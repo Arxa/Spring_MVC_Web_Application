@@ -1,4 +1,4 @@
-# Spring_MVC_Web_Application &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://spring.io/" target="_blank"> <img src="/spring.png"> </a>
+# Spring_MVC_Web_Application &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://spring.io/" target="_blank"> <img src="/WebContent/resources/spring.png"> </a>
 <br>
 <i>The Spring Framework: Java's Popular Web Framework</i>
 
@@ -84,22 +84,22 @@
 
 <table>
  	<tr>
-		<td><a href="/index.JPG"><img src="index.JPG"></a></td>
+		<td><a href="/WebContent/resources/index.JPG"><img src="index.JPG"></a></td>
 	</tr>
  	<tr>
-		<td><a href="loginForm.JPG"><img src="loginForm.JPG"></a></td>
+		<td><a href="/WebContent/resources/loginForm.JPG"><img src="loginForm.JPG"></a></td>
 	</tr>
   <tr>
-		<td><a href="Register.JPG"><img src="Register.JPG"></a></td>
+		<td><a href="/WebContent/resources/validation.JPG"><img src="Register.JPG"></a></td>
 	</tr>
   <tr>
-		<td><a href="Register.JPG"><img src="Register.JPG"></a></td>
+		<td><a href="/WebContent/resources/messages.JPG"><img src="Register.JPG"></a></td>
 	</tr>
   <tr>
-		<td><a href="Register.JPG"><img src="Register.JPG"></a></td>
+		<td><a href="/WebContent/resources/sendMessage.JPG"><img src="Register.JPG"></a></td>
 	</tr>
   <tr>
-		<td><a href="Register.JPG"><img src="Register.JPG"></a></td>
+		<td><a href="/WebContent/resources/update.JPG"><img src="Register.JPG"></a></td>
 	</tr>
 </table>
 
