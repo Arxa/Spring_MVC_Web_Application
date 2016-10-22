@@ -81,3 +81,25 @@
 </b>
 
 <h3>About this Web Application:</h3>
+
+<table>
+ 	<tr>
+		<td><a href="/index.JPG"><img src="index.JPG"></a></td>
+	</tr>
+ 	<tr>
+		<td><a href="loginForm.JPG"><img src="loginForm.JPG"></a></td>
+	</tr>
+  <tr>
+		<td><a href="Register.JPG"><img src="Register.JPG"></a></td>
+	</tr>
+  <tr>
+		<td><a href="Register.JPG"><img src="Register.JPG"></a></td>
+	</tr>
+  <tr>
+		<td><a href="Register.JPG"><img src="Register.JPG"></a></td>
+	</tr>
+  <tr>
+		<td><a href="Register.JPG"><img src="Register.JPG"></a></td>
+	</tr>
+</table>
+
