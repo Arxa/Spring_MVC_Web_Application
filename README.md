@@ -107,4 +107,9 @@
 		<td><a href="/WebContent/resources/update.JPG"><img src="WebContent/resources/update.JPG"></a></td>
 	</tr>
 </table>
+<br>
+<ul>
+  <li>October 2016, Thessaloniki, Greece</li>
+  <li>Nikiforos Archakis</li>
+</ul>
 
