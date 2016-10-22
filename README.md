@@ -86,18 +86,23 @@
  	<tr>
 		<td><a href="/WebContent/resources/index.JPG"><img src="WebContent/resources/index.JPG"></a></td>
 	</tr>
+	
  	<tr>
 		<td><a href="/WebContent/resources/loginForm.JPG"><img src="WebContent/resources/loginForm.JPG"></a></td>
 	</tr>
+	
   	<tr>
 		<td><a href="/WebContent/resources/validation.JPG"><img src="WebContent/resources/validation.JPG"></a></td>
 	</tr>
+	
   	<tr>
 		<td><a href="/WebContent/resources/messages.JPG"><img src="WebContent/resources/messages.JPG"></a></td>
 	</tr>
+	
   	<tr>
 		<td><a href="/WebContent/resources/sendMessage.JPG"><img src="WebContent/resources/sendMessage.JPG"></a></td>
 	</tr>
+	
   	<tr>
 		<td><a href="/WebContent/resources/update.JPG"><img src="WebContent/resources/update.JPG"></a></td>
 	</tr>
