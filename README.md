@@ -80,7 +80,7 @@
 </ul>
 </b>
 
-<h3>About this Web Application:</h3>
+<br>
 
 <table>
  	<tr>
