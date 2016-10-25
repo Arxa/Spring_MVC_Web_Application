@@ -44,6 +44,9 @@
   <li>
       <b>Java</b>
       <ul>
+      <li>
+            JEE 
+        </li>
         <li>
             <a href="/WebContent/WEB-INF/tiles/" target="_blank">JSP </a> 
         </li>
