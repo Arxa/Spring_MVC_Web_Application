@@ -3,8 +3,8 @@
 <i>The Spring Framework: Java's Popular Web Framework</i>
 
 
-<h3>This advanced Spring Project was built by combining a variety of open-source technologies and knowledge, including:</h3>
-<br>
+<h3>This is an advanced Spring Framework MVC Web application, which allows professionals to create offers about their skills in order to attract employers looking to hire.<br> <br> For building this Project, a variety of open-source technologies and knowledge were used, including:</h3>
+
 
 <i>(Links are targeting to relative code or files)</i>
 <br>
