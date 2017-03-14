@@ -84,31 +84,29 @@
 
 <br>
 
-<table>
- 	<tr>
-		<td><a href="/WebContent/resources/index.JPG"><img src="WebContent/resources/index.JPG"></a></td>
-	</tr>
+
+ 	
+<a href="/WebContent/resources/index.JPG"><img src="WebContent/resources/index.JPG"></a>
 	
- 	<tr>
-		<td><a href="/WebContent/resources/loginForm.JPG"><img src="WebContent/resources/loginForm.JPG"></a></td>
-	</tr>
 	
-  	<tr>
-		<td><a href="/WebContent/resources/validation.jpg"><img src="WebContent/resources/validation.jpg"></a></td>
-	</tr>
+ 	
+<a href="/WebContent/resources/loginForm.JPG"><img src="WebContent/resources/loginForm.JPG"> </a>
 	
-  	<tr>
-		<td><a href="/WebContent/resources/messages.JPG"><img src="WebContent/resources/messages.JPG"></a></td>
-	</tr>
 	
-  	<tr>
-		<td><a href="/WebContent/resources/sendMessage.JPG"><img src="WebContent/resources/sendMessage.JPG"></a></td>
-	</tr>
+  	
+<a href="/WebContent/resources/validation.jpg"><img src="WebContent/resources/validation.jpg"></a>
 	
-  	<tr>
-		<td><a href="/WebContent/resources/update.JPG"><img src="WebContent/resources/update.JPG"></a></td>
-	</tr>
-</table>
+
+<a href="/WebContent/resources/messages.JPG"><img src="WebContent/resources/messages.JPG"></a>
+	
+	
+
+<a href="/WebContent/resources/sendMessage.JPG"><img src="WebContent/resources/sendMessage.JPG"></a>
+	
+	
+  
+<a href="/WebContent/resources/update.JPG"><img src="WebContent/resources/update.JPG"></a>
+
 <br>
 <ul>
   <li>October 2016, Thessaloniki, Greece</li>
