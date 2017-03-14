@@ -51,8 +51,7 @@
             <a href="/WebContent/WEB-INF/tiles/" target="_blank">JSP </a> 
         </li>
         <li>
-             <a href="/WebContent/WEB-INF/tiles/header.jsp" target="_blank">JSTL </a> 
-            
+             <a href="/WebContent/WEB-INF/tiles/header.jsp" target="_blank">JSTL </a>   
         </li>
         <li>
             <a href="/test/com/caveofprogramming/spring/web/test/config/datasource.xml" target="_blank"> JDBC </a>
